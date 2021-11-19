@@ -4,9 +4,9 @@
 
 <web-app>
 	<display-name>demoWebApp</display-name>
-<!-- 	<welcome-file-list>
+ 	<welcome-file-list>
 		<welcome-file>log.jsp</welcome-file>
-	</welcome-file-list> -->
+	</welcome-file-list> 
 
 
 	<!-- 

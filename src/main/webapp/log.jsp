@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form method="post" action="check">
+	<form method="post" action="check.do">
 		<!-- Servlet LoginVerify que vous allez faire -->
 		<table>
 			<tr>
